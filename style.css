@@ -50,7 +50,7 @@ h2 {
 
 .select::after {
     content: "";
-    background: url(img);
+    background: url(./img);
     background-size: contain;
     background-repeat: no-repeat;
 
